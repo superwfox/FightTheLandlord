@@ -11,7 +11,7 @@ A Bukkit plugin that simulates 100,000 rounds of the Chinese card game *DouDiZhu
 - Customizable hand strength scoring system based on card values and combinations.
 
 ## Installation
-1. Download the plugin JAR file from the [Releases](https://github.com/yourusername/your-repo/releases) page.
+1. Download the plugin JAR file from the [Releases](https://github.com/superwfox/FightTheLandlord/releases/tag/Plugin) page.
 2. Place the JAR file in the `plugins` folder of your Bukkit/Spigot server.
 3. Restart the server or use `/reload` to load the plugin.
 
@@ -85,7 +85,7 @@ For questions or suggestions, please open an issue on GitHub or contact the main
 - 基于牌值和组合的可定制手牌强度评分系统。
 
 ## 安装
-1. 从 [Releases](https://github.com/yourusername/your-repo/releases) 页面下载插件的 JAR 文件。
+1. 从 [Releases](https://github.com/superwfox/FightTheLandlord/releases/tag/Plugin) 页面下载插件的 JAR 文件。
 2. 将 JAR 文件放入 Bukkit/Spigot 服务器的 `plugins` 文件夹。
 3. 重启服务器或使用 `/reload` 命令加载插件。
 
