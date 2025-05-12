@@ -1,0 +1,4 @@
+name: FightTheLandlord
+version: '1.0'
+main: sudark2.Sudark.fightTheLandlord.FightTheLandlord
+api-version: '1.21'
