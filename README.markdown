@@ -68,7 +68,7 @@ Contributions are welcome! If you have ideas for improving the simulation, scori
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or suggestions, please open an issue on GitHub or contact the maintainer at [your-email@example.com].
+For questions or suggestions, please open an issue on GitHub.
 
 ---
 
@@ -142,4 +142,4 @@ For questions or suggestions, please open an issue on GitHub or contact the main
 本项目采用 MIT 许可证。详情见 [LICENSE](LICENSE) 文件。
 
 ## 联系方式
-如有问题或建议，请在 GitHub 上提交 issue，或联系维护者：[your-email@example.com]。
+如有问题或建议，请在 GitHub 上提交 issue。
